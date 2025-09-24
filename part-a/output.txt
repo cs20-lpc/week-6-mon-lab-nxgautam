@@ -1,0 +1,195 @@
+PART A: 
+
+----------------------------------------
+Maximum using Recursion: 130
+Should be 130 for the fixed array
+----------------------------------------
+
+----------------------------------------
+Maximum using Standard Algorithm: 9972
+Maximum using Recursion: 9972
+---------------------------------------- 
+
+
+PART B: 
+
+----------------------------------------
+Trying n = 1
+
+Rod #1 moved to Rod #3
+
+Number of Moves = 1
+----------------------------------------
+Trying n = 2
+
+Rod #1 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #3
+
+Number of Moves = 3
+----------------------------------------
+Trying n = 3
+
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+
+Number of Moves = 7
+----------------------------------------
+Trying n = 4
+
+Rod #1 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #3
+
+Number of Moves = 15
+----------------------------------------
+Trying n = 5
+
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #3 moved to Rod #1
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #1 moved to Rod #2
+Rod #1 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #3 moved to Rod #2
+Rod #1 moved to Rod #3
+Rod #2 moved to Rod #1
+Rod #2 moved to Rod #3
+Rod #1 moved to Rod #3
+
+Number of Moves = 31
